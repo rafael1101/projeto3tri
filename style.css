@@ -1,0 +1,72 @@
+body {
+    background-color: bisque;
+}
+
+.wrapper {
+    height: 420px;
+    width: 654px;
+    margin: 50px auto;
+    border-radius: 7px 7px 7px 7px;
+    -webkit-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
+    box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
+}
+
+#olive{
+float: left;
+height: 420px;
+width: 327px;
+border-radius: 7px 0 0 7px;
+}
+
+.produtoinfo {
+float: left;
+height: 420px;
+width: 327px;
+border-radius: 0 7px 10px 7px;
+background-color: #ffffff;
+
+}
+
+.produtotexto {
+height: 300px;
+width: 327px;
+
+
+}
+.produtotexto h1,
+.botaopreco p {
+font-family: 'benthman , serif';
+
+}
+.produtotexto h2{
+margin: 0 0 47px 30px;
+font-size: 13px;
+font-family: 'releway' , sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+color: rgb(231, 25, 25);
+}
+ .produtotexto p {
+ height: 225px;
+padding-bottom: 100px;
+margin: 0 0 47px 30px;
+font-family: 'playfair display', serif;
+color: rgba(255, 0, 0, 0.904);
+line-height: 1.7em;
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
